@@ -1,0 +1,16 @@
+Maker Faire Signage Readme
+
+Files are saved in Rhino and .dwg format 
+
+Instructions for programming depth of cut in your CAM software listed on each layer name.
+
+Use 18mm or 3/4” Plywood
+Use 1/8” Spectra Compression Bit for best results.
+
+When deleting the text and replacing with your own name, be sure to pick a block type font that 
+does not require very thin pocketing.
+
+Questions? Email info@moonlighter.co
+
+This design is free and open source for non-commercial and commercial use, please
+refer to creative commons to learn more about rights of usage.
