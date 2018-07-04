@@ -1,4 +1,6 @@
+# uncomment this for virtual GPIO
 from EmulatorGUI import GPIO
+# uncomment this for real buttons GPIO
 #import RPi.GPIO as GPIO
 import time
 import os
